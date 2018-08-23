@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="microbit.svg">
+   sodipodi:docname="microbit.svg"
+   inkscape:export-filename="C:\Users\saitoyutaka\Documents\GitHub\microbit_SVG\microbit.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-11.677489"
+     inkscape:cx="454.51549"
      inkscape:cy="676.54611"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -52,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -176,89 +179,99 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="LED">
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-2-9-4-0-3-8-7"
-       width="2.7036343"
-       height="7.6173215"
-       x="121.45685"
-       y="128.1841"
-       inkscape:label="LED44" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-2-4-4-9-2"
-       width="2.7036343"
-       height="7.6173215"
-       x="94.809662"
-       y="128.1841"
-       inkscape:label="LED42" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-2-9-7-7-5-5"
-       width="2.7036343"
-       height="7.6173215"
-       x="106.45124"
-       y="128.1841"
-       inkscape:label="LED43" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-5-7-3-5"
-       width="2.7036343"
-       height="7.6173215"
-       x="86.342987"
-       y="128.1841"
-       inkscape:label="LED41" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="LED00-3-4-5-7"
-       width="2.7036343"
-       height="7.6173215"
-       x="78.97245"
-       y="128.1086"
-       inkscape:label="LED40" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-2-9-4-0-3-8"
-       width="2.7036343"
-       height="7.6173215"
-       x="121.45147"
-       y="118.81892"
-       inkscape:label="LED34" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-2-9-7-7-5"
-       width="2.7036343"
-       height="7.6173215"
-       x="106.44587"
-       y="118.81892"
-       inkscape:label="LED33" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-2-4-4-9"
-       width="2.7036343"
-       height="7.6173215"
-       x="94.804276"
-       y="118.81892"
-       inkscape:label="LED32" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect815-5-8-5-7-3"
-       width="2.7036343"
-       height="7.6173215"
-       x="86.337601"
-       y="118.81892"
-       inkscape:label="LED31" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="LED00-3-4-5"
-       width="2.7036343"
-       height="7.6173215"
-       x="78.967064"
-       y="118.7434"
-       inkscape:label="LED30" />
     <g
        inkscape:groupmode="layer"
-       id="layer5"
+       id="LED_Line0"
+       inkscape:label="LED_Line0">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-2-9-4"
+         width="2.7036343"
+         height="7.6173215"
+         x="121.26366"
+         y="86.476158"
+         inkscape:label="LED04" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-2-9"
+         width="2.7036343"
+         height="7.6173215"
+         x="106.25799"
+         y="86.476158"
+         inkscape:label="LED03" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-2"
+         width="2.7036343"
+         height="7.6173215"
+         x="94.616333"
+         y="86.476158"
+         inkscape:label="LED02" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8"
+         width="2.7036343"
+         height="7.6173215"
+         x="86.149666"
+         y="86.476158"
+         inkscape:label="LED01" />
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="LED00"
+         width="2.7036343"
+         height="7.6173215"
+         x="78.779121"
+         y="86.400597"
+         inkscape:label="LED00" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="LED_Line1"
+       inkscape:label="LED_Line1">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-2-9-4-0"
+         width="2.7036343"
+         height="7.6173215"
+         x="121.13589"
+         y="98.212341"
+         inkscape:label="LED14" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-2-9-7"
+         width="2.7036343"
+         height="7.6173215"
+         x="106.13025"
+         y="98.212341"
+         inkscape:label="LED13" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-2-4"
+         width="2.7036343"
+         height="7.6173215"
+         x="94.488609"
+         y="98.212341"
+         inkscape:label="LED12" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect815-5-8-5"
+         width="2.7036343"
+         height="7.6173215"
+         x="86.021935"
+         y="98.212341"
+         inkscape:label="LED11" />
+      <rect
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="LED00-3"
+         width="2.7036343"
+         height="7.6173215"
+         x="78.651398"
+         y="98.136818"
+         inkscape:label="LED10" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="LED_Line2"
        inkscape:label="LED_Line2"
        style="display:inline">
       <rect
@@ -304,93 +317,93 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       id="layer4"
-       inkscape:label="LED_Line1">
+       id="LED_Line3"
+       inkscape:label="LED_Line3">
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-2-9-4-0"
-         width="2.7036343"
-         height="7.6173215"
-         x="121.13589"
-         y="98.212341"
-         inkscape:label="LED14" />
+        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="LED00-3-4-5"
+        width="2.7036343"
+        height="7.6173215"
+        x="78.967064"
+        y="118.7434"
+        inkscape:label="LED30" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-2-9-7"
-         width="2.7036343"
-         height="7.6173215"
-         x="106.13025"
-         y="98.212341"
-         inkscape:label="LED13" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-5-7-3"
+        width="2.7036343"
+        height="7.6173215"
+        x="86.337601"
+        y="118.81892"
+        inkscape:label="LED31" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-2-4"
-         width="2.7036343"
-         height="7.6173215"
-         x="94.488609"
-         y="98.212341"
-         inkscape:label="LED12" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-2-9-4-0-3-8"
+        width="2.7036343"
+        height="7.6173215"
+        x="121.45147"
+        y="118.81892"
+        inkscape:label="LED34" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-5"
-         width="2.7036343"
-         height="7.6173215"
-         x="86.021935"
-         y="98.212341"
-         inkscape:label="LED11" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-2-9-7-7-5"
+        width="2.7036343"
+        height="7.6173215"
+        x="106.44587"
+        y="118.81892"
+        inkscape:label="LED33" />
       <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="LED00-3"
-         width="2.7036343"
-         height="7.6173215"
-         x="78.651398"
-         y="98.136818"
-         inkscape:label="LED10" />
-    </g>
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-2-4-4-9"
+        width="2.7036343"
+        height="7.6173215"
+        x="94.804276"
+        y="118.81892"
+        inkscape:label="LED32" />
+  </g>
     <g
        inkscape:groupmode="layer"
-       id="layer3"
-       inkscape:label="LED_Line0">
+       id="LED_Line4"
+       inkscape:label="LED_Line4">
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-2-9-4"
-         width="2.7036343"
-         height="7.6173215"
-         x="121.26366"
-         y="86.476158"
-         inkscape:label="LED04" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-2-9-4-0-3-8-7"
+        width="2.7036343"
+        height="7.6173215"
+        x="121.45685"
+        y="128.1841"
+        inkscape:label="LED44" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-2-9"
-         width="2.7036343"
-         height="7.6173215"
-         x="106.25799"
-         y="86.476158"
-         inkscape:label="LED03" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-2-4-4-9-2"
+        width="2.7036343"
+        height="7.6173215"
+        x="94.809662"
+        y="128.1841"
+        inkscape:label="LED42" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8-2"
-         width="2.7036343"
-         height="7.6173215"
-         x="94.616333"
-         y="86.476158"
-         inkscape:label="LED02" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-2-9-7-7-5-5"
+        width="2.7036343"
+        height="7.6173215"
+        x="106.45124"
+        y="128.1841"
+        inkscape:label="LED43" />
       <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="rect815-5-8"
-         width="2.7036343"
-         height="7.6173215"
-         x="86.149666"
-         y="86.476158"
-         inkscape:label="LED01" />
+        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="rect815-5-8-5-7-3-5"
+        width="2.7036343"
+        height="7.6173215"
+        x="86.342987"
+        y="128.1841"
+        inkscape:label="LED41" />
       <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-         id="LED00"
-         width="2.7036343"
-         height="7.6173215"
-         x="78.779121"
-         y="86.400597"
-         inkscape:label="LED00" />
+        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+        id="LED00-3-4-5-7"
+        width="2.7036343"
+        height="7.6173215"
+        x="78.97245"
+        y="128.1086"
+        inkscape:label="LED40" />
     </g>
-  </g>
+
 </svg>
